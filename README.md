@@ -1,0 +1,4 @@
+puppet-sssd
+===========
+
+puppet-sssd
