@@ -1,0 +1,7 @@
+name 'marcellussiegburg-sssd'
+version '0.0.1'
+author 'Marcellus Siegburg'
+summary 'Module to configure sssd.'
+description 'Module to configure sssd based on torian-ldap module'
+license 'MIT License'
+project_page 'https://github.com/marcellussiegburg/puppet-sssd.git'
